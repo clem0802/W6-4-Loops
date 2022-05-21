@@ -187,20 +187,20 @@ function printChars(char, times) {
 
 let lineNumbers = 10;
 while (lineNumbers >= 0) {
-  console.log(printChars("~", lineNumbers));
+  console.log(printChars("° ", lineNumbers));
   lineNumbers--;
 }
 
-@ @ @ @ @ @ @ @ @ @ 
-@ @ @ @ @ @ @ @ @
-@ @ @ @ @ @ @ @
-@ @ @ @ @ @ @
-@ @ @ @ @ @
-@ @ @ @ @
-@ @ @ @
-@ @ @
-@ @
-@
+° ° ° ° ° ° ° ° ° ° 
+° ° ° ° ° ° ° ° °
+° ° ° ° ° ° ° ° 
+° ° ° ° ° ° ° 
+° ° ° ° ° ° 
+° ° ° ° ° 
+° ° ° ° 
+° ° ° 
+° ° 
+° 
 
 
 
